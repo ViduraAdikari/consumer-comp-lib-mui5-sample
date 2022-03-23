@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Consumer app of Sample component library build with MUI v5
+
+This library is to be build using rollup and will be installed as a npm packakge to another Reactjs app.
+
+## How I created component library? 
+
+How to build a component library with rollup can be found in this repo:
+https://github.com/ViduraAdikari/comp-lib-mui5-sample.git
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
