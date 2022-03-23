@@ -2,10 +2,17 @@
 
 This library is to be build using rollup and will be installed as a npm packakge to another Reactjs app.
 
+## For usage
+
+install module using `npm i [aboslute path to comp-lib-mui5-sample-x.x.x.tgz]` \
+Check `App.tsx` and `package.json` comp-lib-mui5-sample dependencies
+
 ## How I created component library? 
 
 How to build a component library with rollup can be found in this repo:
 https://github.com/ViduraAdikari/comp-lib-mui5-sample.git
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
