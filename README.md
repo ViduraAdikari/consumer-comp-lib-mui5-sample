@@ -4,8 +4,11 @@ This library is to be build using rollup and will be installed as a npm packakge
 
 ## For usage
 
-install module using `npm i [aboslute path to comp-lib-mui5-sample-x.x.x.tgz]` \
-Check `App.tsx` and `package.json` comp-lib-mui5-sample dependencies
+install module using `npm i [aboslute path to comp-lib-mui5-sample-x.x.x.tgz]` \ 
+
+Before installation remove "comp-lib-mui5-sample": "file:../comp-lib-mui5-sample/comp-lib-mui5-sample-x.x.x.tgz", line from package.json 
+
+Check `App.tsx` for usage and `package.json` comp-lib-mui5-sample dependencies
 
 ## How I created component library? 
 
